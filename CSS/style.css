@@ -79,7 +79,6 @@ header {
 
 
 }
-
 /* CSS pour Label & Input de Matt*/
 
 .inputWrapper{
@@ -153,7 +152,7 @@ footer  {
     background-color: #07242E ;
 }
 
-.controller ul li {   
+li {   
 
     text-align: left;
    
@@ -163,6 +162,7 @@ a {
     color: rgb(239, 16, 16);
     font-weight:bold;
     text-decoration:none;
+    font-weight: bolder;
 }
 
 .create-articles { 
