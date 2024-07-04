@@ -79,6 +79,13 @@ header {
 
 
 }
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 100vh;
+}
 /* CSS pour Label & Input de Matt*/
 
 .inputWrapper{
